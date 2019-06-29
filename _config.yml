@@ -3,7 +3,7 @@ name: Senpin
 email: vkdnjdldnjsw@naver.com
 description: This is Senpin's Blog.
 
-baseurl: "/blog"
+baseurl: ""
 url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
@@ -28,9 +28,9 @@ project_three_url: https://github.com/PickPic
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: Coming Soon
+project_four_description: It will be updated.
+project_four_url: https://github.com/vkdnjdldnjsw?tab=repositories
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
