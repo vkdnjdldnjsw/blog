@@ -57,7 +57,7 @@ skills:
 #  - name: codeigniter
 #  - name: coffescript
 #  - name: confluence
-#  - name: cplusplus
+  - name: cplusplus
 #  - name: csharp
   - name: css3
 #  - name: cucumber
